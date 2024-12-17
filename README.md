@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<!-- [Live Demo](//) -->
+[Live Demo](https://wiseweb-works.github.io/shopping-site-vite-vanilla-js/)
 
 A modern, responsive shopping website designed to provide an interactive shopping experience with dynamic cart features, product search functionality, and a stylish user interface, built with **Bootstrap 5**, **FontAwesome**, **SCSS**, **Vite**, and **Vanilla JavaScript**.
 
