@@ -1,0 +1,24 @@
+/* styles.scss */
+@mixin line-clamp($lines) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.scroll-hidden {
+  overflow-x: hidden !important;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.line-clamp-3 {
+  @include line-clamp(3);
+}
+
+.line-clamp-1 {
+  @include line-clamp(1);
+}
