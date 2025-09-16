@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "sass": "^1.92.1",
-    "vite": "^7.1.5"
+    "vite": "^6.3.6"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.1",
