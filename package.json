@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sass": "^1.92.1",
-    "vite": "^7.1.5"
+    "sass": "^1.93.2",
+    "vite": "^7.1.12"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^7.0.1",
+    "@fortawesome/fontawesome-free": "^7.1.0",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.8"
   }
