@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sass": "^1.98.0",
-    "vite": "^8.0.2"
+    "sass": "^1.99.0",
+    "vite": "^8.0.8"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.2.0",
